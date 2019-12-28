@@ -1,5 +1,3 @@
-function () {
-  const name = 'First lesson';
-  
-  console.log(name);
-}
+const name = 'First lesson';
+
+console.log(name);
