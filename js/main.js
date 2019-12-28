@@ -1,3 +1,6 @@
-const name = 'First lesson';
+let admin;
+let name = 'John';
 
-console.log(name);
+admin = name;
+
+console.log('admin', admin);
